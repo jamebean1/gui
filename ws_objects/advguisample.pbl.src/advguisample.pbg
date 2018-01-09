@@ -1,0 +1,18 @@
+﻿Save Format v3.0(19990112)
+@begin Libraries
+ "advguisample.pbl" "";
+@end;
+@begin Objects 
+ "advguisample.sra" "advguisample.pbl";
+ "d_test.srd" "advguisample.pbl";
+ "p_advguisample_exe.srj" "advguisample.pbl";
+ "m_main.srm" "advguisample.pbl";
+ "n_userobject.sru" "advguisample.pbl";
+ "u_cst_test1.sru" "advguisample.pbl";
+ "u_cst_test2.sru" "advguisample.pbl";
+ "u_cst_test3.sru" "advguisample.pbl";
+ "u_cst_test4.sru" "advguisample.pbl";
+ "u_cst_test5.sru" "advguisample.pbl";
+ "w_about.srw" "advguisample.pbl";
+ "w_main.srw" "advguisample.pbl";
+@end;

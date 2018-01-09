@@ -1,0 +1,17 @@
+﻿$PBExportHeader$p_advguisample_exe.srj
+$PBExportComments$Generated Application Executable Project
+EXE:advguisample.exe,,0,0,1
+CMP:0,0,0,2,0,0
+COM:Sybase, Inc.
+DES:Sybase, Inc. Product File
+CPY:
+PRD:PowerBuilder Enterprise Series
+PVN:1,0,0,1
+PVS:1.0.0.1
+FVN:1,0,0,1
+FVS:1.0.0.1
+PBD:advguisample.pbl,,0
+PBD:advguicontrols.pbl,,0
+PBD:advguiobjects.pbl,,0
+
+ 
